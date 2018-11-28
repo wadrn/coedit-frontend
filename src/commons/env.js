@@ -1,4 +1,6 @@
-const port = 8080;
+const port = 8008;
+const backendUrl = 'http://localhost:4000';
 module.exports = {
-    port
+    port,
+    backendUrl
 }
